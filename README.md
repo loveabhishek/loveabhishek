@@ -1,4 +1,4 @@
-💻 Final Year CSE Student | Aspiring SDET / Full-Stack Developer  
+💻 Final Year CSE Student | Aspiring Software Developer / Full-Stack Developer  
 🔧 Skills: Java, Python, JavaScript, SQL, React, Spring Boot  
 🚀 Building projects in AI, Web Development & Automation  
 📫 Connect: [LinkedIn](www.linkedin.com/in/abhishek-kumar-b0a995255)
