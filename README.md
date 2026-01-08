@@ -35,14 +35,6 @@
 - Selenium  
 - Git & GitHub  
 - Docker (Basics)
-
----
-
-## 📌 What I'm Working On
-- Full-stack projects with proper backend & database integration  
-- Writing testable code and learning automation best practices  
-- Improving DSA and system fundamentals  
-
 ---
 
 ## 📫 Connect With Me
